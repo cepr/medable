@@ -1,0 +1,19 @@
+{
+  "name": "medable",
+  "version": "0.1.0",
+  "description": "API to access a Medable Cortex server",
+  "homepage": "https://github.com/cepr/medable",
+  "bugs": {
+    "url": "https://github.com/cepr/medable/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Cedric Priscal <cedric.priscal@gmail.com>",
+  "main": "medable",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cepr/medable.git"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.5.5"
+  }
+}
