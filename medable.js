@@ -1,5 +1,3 @@
-"use strict";
-
 /*
 Copyright [2017] [Cedric Priscal
 
